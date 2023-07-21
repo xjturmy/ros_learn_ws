@@ -1,0 +1,8 @@
+# 忽略/devel文件 
+/devel
+
+# 忽略/build文件
+/build
+
+# 忽略/.vscode文件
+/.vscode
