@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- 参数加载到全局 -->
+    <rosparam command="load" file="$(find param_node)/params.yaml"/>
+    <node pkg= "param_node" type="param_node" name="param_node" output="screen">
+        <!-- 参数加载到param内 -->
+        <param name="name" type="string" value="frank"/>
+    </node>    
+
+</launch>
