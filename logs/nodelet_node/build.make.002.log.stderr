@@ -1,0 +1,7 @@
+[01m[K/home/rmy/03_learning_materials/ros_learn_ws/src/nodelet_node/src/MyNodeletClass.cpp:6:10:[m[K [01;31m[Kfatal error: [m[Knodelet_node/MyNodeletClass.h: 没有那个文件或目录
+    6 | #include [01;31m[K<nodelet_node/MyNodeletClass.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/nodelet_node.dir/build.make:63：CMakeFiles/nodelet_node.dir/src/MyNodeletClass.cpp.o] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:641：CMakeFiles/nodelet_node.dir/all] 错误 2
+make: *** [Makefile:141：all] 错误 2

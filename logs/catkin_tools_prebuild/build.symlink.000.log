@@ -1,0 +1,12 @@
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/./env.sh
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/./setup.sh
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/./setup.zsh
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/./_setup_util.py
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/./cmake.lock
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/./local_setup.sh
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/./setup.bash
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/./local_setup.zsh
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/./local_setup.bash
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/rmy/03_learning_materials/ros_learn_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

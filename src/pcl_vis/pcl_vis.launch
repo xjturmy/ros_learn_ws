@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- <node pkg="rosbag" type="play"  name="rosbag_play" args="/home/rmy/Documents/1-测试数据/5-动态障碍物/1-第一次录制/2023-06-26-14-04-30_0.bag" output="screen"/>   -->
+    <!-- <remap from="/lidar_pipline/sample_pointclouds" to="/combined_points" />
+    <arg name="use_sim_time" value="true"/> -->
+    <node pkg= "pcl_vis" type="pcl_vis" name="pcl_vis" output="screen"/>
+</launch>
